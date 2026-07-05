@@ -223,3 +223,9 @@ __marimo__/
 credentials
 *.pem
 output/
+.git/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/
+output/
