@@ -1,0 +1,4 @@
+boto3          # AWS SDK, how Python talks to AWS
+moto[all]      # mocks AWS in memory for tests
+pytest         # test runner
+rich           # color-coded terminal tables for the report
